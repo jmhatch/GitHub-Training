@@ -1,5 +1,6 @@
 # GitHub Training
 
-05/12/2020
+Joshua Hatch\
+May 12, 2020
 
-##Introduction, terminology, and benefits of git and Github
+A repository for materials of NOAA git and GitHub trainng on a NOAA webinar.
